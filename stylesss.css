@@ -16,7 +16,7 @@ body {
 .container {
   max-width: 700px;
   width: 100%;
-  margin-top: 120rem;
+  margin-top: 90rem;
   background-color: #fff;
   padding: 25px 30px;
   border-radius: 5px;
@@ -239,7 +239,7 @@ form .button input:hover {
     height: 60px;
   }
   .container {
-    margin-top: 1rem;
+    margin-top: 15rem;
   }
 }
 
@@ -258,7 +258,7 @@ form .button input:hover {
     height: 60px;
   }
   .container {
-    margin-top: 5rem;
+    margin-top: 10rem;
   }
 }
 
